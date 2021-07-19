@@ -104,6 +104,12 @@ If you have any questions after today, feel free to follow me @lindsaykwardell o
 </v-click>
 
 ---
+layout: center
+---
+
+# Questions?
+
+---
 
 <div grid="~ cols-3 gap-2 ">
 

@@ -127,6 +127,7 @@ If you have any questions after today, feel free to follow me @lindsaykwardell o
 </div>
 
 https://github.com/lindsaykwardell/jsm-composition
+https://jsm-composition-api.netlify.app/
 
 </div>
 
